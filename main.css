@@ -1,3 +1,26 @@
 body{
     background-color: black;
 }
+
+img {
+    float:left;
+    padding-right: 40px;
+    padding-left: 30px;
+}
+h3 {
+    float:center;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+
+
+
+
+
+  
+  
+
