@@ -94,3 +94,20 @@ img:hover:after{
 #Carl .button:hover{
     background-color: whitesmoke;
 }
+
+
+img {
+    float:left;
+    padding-right: 40px;
+    padding-left: 30px;
+}
+h3 {
+    float:center;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+
