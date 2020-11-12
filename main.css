@@ -13,5 +13,20 @@ img:hover:after{
     /*left and top values might be needed*/
 }
 
+.gallery{
+    float: left;
+    width: 100%;
+}
+
+.aboutText{
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+.textBox p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
 
 /*======================Evan's Section===========================*/
