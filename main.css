@@ -96,6 +96,21 @@ img:hover:after{
 }
 
 
+img {
+    float:left;
+    padding-right: 40px;
+    padding-left: 30px;
+}
+h3 {
+    float:center;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+
 /*
 ___________                                        
 \__    ___/  ____  _____     _____                 
