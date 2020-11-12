@@ -1,3 +1,37 @@
 body{
     background-color: black;
 }
+
+#Carl {
+    background-color: aqua;
+    border-color: whitesmoke;
+}
+
+#Carl img{
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 5%;
+}
+
+#Carl p{   
+    margin-left: 20%;
+    font-size: x-large;
+    width: 66%;
+    
+}
+
+#Carl .button{
+    background-color: tomato;
+    margin-left: 47%;
+    border-color: black;
+    margin-bottom: 2%;
+    margin-top: 1%;
+    
+}
+
+#Carl .button:hover{
+    background-color: whitesmoke;
+}
+
+
