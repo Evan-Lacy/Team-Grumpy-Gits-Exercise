@@ -2,10 +2,25 @@ body{
     background-color: black;
 }
 
+#header{
+    text-align: center;
+    color: sandybrown;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+}
+
 /*======================Evan's Section===========================*/
+#evan{
+    background-color: lightgray;
+    border: solid 5px red;
+    padding-top: 3%;
+
+}
+
 img:hover{
     position: relative;
 }
+
 img:hover:after{
     content: url("assets/Big\ Enough\ Cowboy.png");
     display: block;
@@ -16,6 +31,16 @@ img:hover:after{
 .gallery{
     float: left;
     width: 100%;
+}
+
+.aboutTitle{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.aboutTitle h1{
+    margin-bottom: 3rem;
 }
 
 .aboutText{
