@@ -2,6 +2,100 @@ body{
     background-color: black;
 }
 
+#header{
+    text-align: center;
+    color: sandybrown;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+}
+
+/*======================Evan's Section===========================*/
+#evan{
+    background-color: lightgray;
+    border: solid 5px red;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+
+img:hover{
+    position: relative;
+}
+
+img:hover:after{
+    content: url("assets/Big\ Enough\ Cowboy.png");
+    display: block;
+    position: absolute;
+    /*left and top values might be needed*/
+}
+
+.gallery{
+    float: left;
+    width: 100%;
+    padding-right: 10rem;
+}
+
+.aboutTitle{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.aboutTitle h1{
+    margin-bottom: 3rem;
+}
+
+.aboutText{
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+.textBox p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.aboutHeader{
+    text-align: center;
+}
+
+/* .containerEvan{
+    margin: 2rem;
+} */
+
+#Carl {
+    background-color: aqua;
+    border-color: whitesmoke;
+}
+
+#Carl img{
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 5%;
+}
+
+#Carl p{   
+    margin-left: 20%;
+    font-size: x-large;
+    width: 66%;
+    
+}
+
+#Carl .button{
+    background-color: tomato;
+    margin-left: 47%;
+    border-color: black;
+    margin-bottom: 2%;
+    margin-top: 1%;
+    
+}
+
+#Carl .button:hover{
+    background-color: whitesmoke;
+}
+
+
 img {
     float:left;
     padding-right: 40px;
@@ -16,11 +110,4 @@ p {
     color: white;
 }
 
-
-
-
-
-
-  
-  
 
